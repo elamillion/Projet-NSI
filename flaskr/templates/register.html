@@ -5,10 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Log in screen</title>
-    <link rel="stylesheet" href="log_style.css">
+    <link rel="stylesheet" href="static/style.css">
 </head>
 <body>
-
+    <img src="{{url_for('static', filename='img.jpg')}}">
     <div class="wrap">
         <form action="">
             <h1>Bienvenue, veulliez créer un compte</h1>
@@ -25,7 +25,7 @@
             <button type="submit" class="btn">S'inscrire</button>
             
             <div class="register-link">
-                <p>Vous avez déja un compte? <a href="log.html">Se connecter</a></p>
+                <!-- <p>Vous avez déja un compte? <a href="log.html">Se connecter</a></p> -->
             </div>
         </form>
     </div>
