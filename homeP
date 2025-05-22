@@ -7,7 +7,23 @@
     <link rel="stylesheet" href="">
 </head>
 <body>
-    
+     <h1>Welcome to the home page</h1>
+        <p>Welcome to the home page of our website. Here you can find various resources and information.</p>
+        <h2>Navigation</h2>
+        <ul>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="testimonials.html">Testimonials</a></li>
+            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="terms.html">Terms of Service</a></li>
+            <li><a href="privacy.html">Privacy Policy</a></li>
+            <li><a href="sitemap.html">Sitemap</a></li>
+            <li><a href="careers.html">Careers</a></li>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="news.html">News</a></li>
     
 </body>
 </html>
